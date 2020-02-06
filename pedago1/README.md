@@ -41,7 +41,7 @@ préparer vos interventions.
 - [Groupe IREM Informatique sans ordinateur de Clermont-Ferrand](http://www.irem.univ-bpclermont.fr/spip.php?article892).
   Des activités prêtes à l'emploi, avec les fiches de préparation et
   le matériel pour les élèves. Tout a été testé en classe. 
-  Le [Groupe IREM de Grenoble](http://www-irem.ujf-grenoble.fr/spip/spip.php?article146) 
+  Le [Groupe IREM de Grenoble](https://irem.univ-grenoble-alpes.fr/recherche-action/themes/informatique-de-l-ecole-jusqu-au-lycee-417052.kjsp?RH=413148517454715) 
   a une page comparable.
 - Activité de [mesure binaire](https://github.com/Mommessc/Mesures_binaires),
   inventée par Marie Le Guilly et Clément Mommessin lors de l'école
